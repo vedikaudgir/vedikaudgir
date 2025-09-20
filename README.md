@@ -23,10 +23,12 @@
 - ⏰ **Time-to-Words Converter** *(C++)*  
 
 ### 🧩 Mini JavaScript Apps  
-- ✅ **To-Do App** (local in-memory storage)  
-- 🎲 **Random Image Generator**  
-- 📝 **Notes App**  
-- ⏱️ **Stopwatch / Timer**  
+- ✅ To-Do App (local in-memory storage)  
+- ⌨️ Typing Speed Test  
+- ⏱️ Stopwatch / Timer  
+- 🎲 Random Image Generator  
+- 🤪 Dumb Joke Generator (API-based)
+- 📝 Notes App 
 
 ## 📈 GitHub Stats  
 ![Vedika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedikaUdgir&show_icons=true&theme=tokyonight)        
